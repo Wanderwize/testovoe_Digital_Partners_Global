@@ -35,11 +35,8 @@ body {
   font-weight: 500;
   font-size: 55px;
   line-height: 120%;
-
   text-align: center;
-
   color: #ffffff;
-
   text-shadow: 0px 4px 19px rgba(0, 0, 0, 0.97);
 }
 
@@ -57,17 +54,13 @@ body {
 
 .title {
   margin: 90px auto 0;
-
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 500;
   font-size: 55px;
   line-height: 120%;
-
   text-align: center;
-
   color: #ffffff;
-
   text-shadow: 0px 4px 19px rgba(0, 0, 0, 0.97);
 }
 
@@ -103,7 +96,6 @@ body {
   font-weight: 300;
   font-size: 15px;
   line-height: 120%;
-
   color: #797ea3;
 }
 
@@ -114,7 +106,6 @@ input {
 input:focus {
   border-bottom: 1px solid #ffffff;
   transition: 0.1s ease-in-out;
-
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -137,7 +128,6 @@ input:focus {
   line-height: 120%;
   width: 238px;
   text-align: center;
-
   color: #ffffff;
   margin: 0 auto 0;
 }
@@ -148,7 +138,6 @@ input:focus {
   font-weight: 300;
   font-size: 15px;
   line-height: 120%;
-
   color: #797ea3;
 }
 
@@ -207,7 +196,6 @@ input:focus {
   display: inline-block;
   width: 31px;
   height: 31px;
-
   background: #2c2f47;
   border-radius: 8px;
   cursor: pointer;
@@ -280,7 +268,6 @@ input:focus {
     display: inline-block;
     width: 31px;
     height: 31px;
-
     background: #2c2f47;
     border-radius: 8px;
     cursor: pointer;
